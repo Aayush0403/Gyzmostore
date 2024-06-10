@@ -17,10 +17,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
@@ -31,43 +28,20 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Screenshot (61)](https://github.com/Aayush0403/Gyzmostore/assets/91247608/c0d1ab0e-5026-47c0-b38a-ceb5266ae408)
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![Screenshot (62)](https://github.com/Aayush0403/Gyzmostore/assets/91247608/2baff47b-8e6c-445f-8844-8c999ff0dc71)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![Screenshot (67)](https://github.com/Aayush0403/Gyzmostore/assets/91247608/369c25a8-44d3-44f9-b352-b54fed5ec36d)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![Screenshot (68)](https://github.com/Aayush0403/Gyzmostore/assets/91247608/07f2ffc6-dcc8-4f36-859e-1490f91eba8e)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![Screenshot (71)](https://github.com/Aayush0403/Gyzmostore/assets/91247608/a441c5ea-3a9b-4b27-ac24-7b2eaeeb9c71)
 
-### Code Splitting
+![Screenshot (75)](https://github.com/Aayush0403/Gyzmostore/assets/91247608/84c8966b-2fc6-4c09-88f4-17926660767b)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Screenshot (77)](https://github.com/Aayush0403/Gyzmostore/assets/91247608/dbd5a183-46b3-4f57-8ccd-8f1734ffd16e)
