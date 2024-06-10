@@ -45,3 +45,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ![Screenshot (75)](https://github.com/Aayush0403/Gyzmostore/assets/91247608/84c8966b-2fc6-4c09-88f4-17926660767b)
 
 ![Screenshot (77)](https://github.com/Aayush0403/Gyzmostore/assets/91247608/dbd5a183-46b3-4f57-8ccd-8f1734ffd16e)
+![Screenshot (80)](https://github.com/Aayush0403/Gyzmostore/assets/91247608/6729bcf7-4902-42a4-8bb6-605dc3470df0)
+![Screenshot (79)](https://github.com/Aayush0403/Gyzmostore/assets/91247608/fbea22ef-9d05-4176-ae29-e09862002acc)
+
+
